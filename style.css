@@ -157,3 +157,35 @@ body{
         width: 100%;
      }
 } 
+
+#Projects{
+    font-family: Roboto;
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.Ahuse{
+    font-family: Robobto;
+    color:rgba(40, 41, 56, 1) ;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+#Lorem{
+    color: rgba(28, 30, 83, 1);
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 21.33px;
+}
+
+#View-In-Dribbble{
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 18.67px ;
+}
+
+#border{
+    box-shadow: 0 0 90px rgba(0, 0, 0, 0.171);
+}
