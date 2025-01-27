@@ -21,8 +21,8 @@ body{
 
 .navbar{
     box-shadow: 0 0 90px rgba(0, 0, 0, 0.171);
-    /* position: fixed;
-    z-index: 10;  */
+    position: fixed;
+    z-index: 10;
     width: 100%;
     height: 120px;
 }
@@ -159,7 +159,7 @@ body{
      }
 
      #Projects{
-        margin-top: 250px;
+        margin-top: 450px;
      }
 } 
 
