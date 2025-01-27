@@ -1,5 +1,6 @@
 body{
     overflow-x: hidden;
+    padding-bottom: 3%;
 }
 
 
@@ -156,6 +157,10 @@ body{
      #about-me{
         width: 100%;
      }
+
+     #Projects{
+        margin-top: 250px;
+     }
 } 
 
 #Projects{
@@ -163,10 +168,11 @@ body{
     color: rgba(0, 0, 0, 1);
     font-weight: 700;
     font-size: 48px;
+    
 }
 
 .Ahuse{
-    font-family: Robobto;
+    font-family: Roboto;
     color:rgba(40, 41, 56, 1) ;
     font-weight: 700;
     font-size: 32px;
@@ -188,4 +194,51 @@ body{
 
 #border{
     box-shadow: 0 0 90px rgba(0, 0, 0, 0.171);
+}
+
+#Clients{
+   color: rgba(40, 41, 56, 1);
+   font-family: Roboto; 
+   font-weight: 600;
+   font-size: 21.33px;
+   ;
+}
+
+#Customer{
+    color: rgba(40, 41, 56, 1);
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+#Dianne{
+    color: rgba(40, 41, 56, 1);
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 21.33px;
+}
+
+#Starbucks{
+    color: rgba(28, 30, 83, 1);
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 21.33px;
+}
+
+#Touch{
+    color: rgba(40, 41, 56, 1);
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 21.33px;
+}
+
+#Contact-me{
+    color: rgba(40, 41, 56, 1);
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.border-outline{
+    border-color: rgba(94, 59, 238, 1) !important;
 }
